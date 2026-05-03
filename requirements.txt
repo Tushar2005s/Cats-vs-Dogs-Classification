@@ -1,0 +1,10 @@
+# Cat vs Dog Classifier - PROJECT
+# By Tushar Sharma | BSc AI & DS | IIT Guwahati
+#
+# Install:  pip install -r requirements.txt
+# Run:      python -m streamlit run app.py
+
+streamlit
+onnxruntime
+pillow
+numpy
